@@ -1,0 +1,2 @@
+This repository is my final project for my SDEV 140 class. It'll contain all updates to the project. The program is called Flash Flow the purpose of the program is to allow a user to create decks of flashcards and practice learning terms and even test their knowledge.
+I'm creating this because I never devloped good study habits in highschool and I've been struggling with terminology in college so I wanted to make something that would help me out with that. 
